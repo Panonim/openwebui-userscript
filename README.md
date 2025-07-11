@@ -49,4 +49,4 @@ When you open the URL with this script installed, it will:
 
 ## License
 
-MIT License © \[Artur Flis]
+MIT License &copy; 2025 Artur Flis

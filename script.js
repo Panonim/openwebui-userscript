@@ -2,8 +2,8 @@
 // @name         Open WebUI Message From URL Sender
 // @namespace    https://bluee.dev/
 // @version      1.0
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://raw.githubusercontent.com/Panonim/openwebui-userscript/refs/heads/main/script.js
+// @downloadURL  https://raw.githubusercontent.com/Panonim/openwebui-userscript/refs/heads/main/script.js
 // @description  Auto-send message from URL parameter in Open WebUI
 // @author       Artur Flis C 2025
 // @match        *://localhost:3000/*

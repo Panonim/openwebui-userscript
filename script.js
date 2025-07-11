@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Open WebUI Message From URL Sender
+// @name         Open WebUI Message Fetcher from URL
 // @namespace    https://github.com/Panonim/openwebui-userscript
 // @version      1.0.0
 // @updateURL    https://raw.githubusercontent.com/Panonim/openwebui-userscript/refs/heads/main/script.js
 // @downloadURL  https://raw.githubusercontent.com/Panonim/openwebui-userscript/refs/heads/main/script.js
-// @description  Auto-send message from URL parameter in Open WebUI
+// @description  Automatically injects and sends a message in Open WebUI if a `?message=` parameter is present in the URL. Useful for automation, testing, or scripted interactions.
 // @author       Artur Flis C 2025
 // @match        *://localhost:3000/*
 // @grant        none

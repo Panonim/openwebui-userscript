@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Open WebUI Message From URL Sender
-// @namespace    https://bluee.dev/
-// @version      1.0
+// @namespace    https://github.com/Panonim/openwebui-userscript
+// @version      1.0.0
 // @updateURL    https://raw.githubusercontent.com/Panonim/openwebui-userscript/refs/heads/main/script.js
 // @downloadURL  https://raw.githubusercontent.com/Panonim/openwebui-userscript/refs/heads/main/script.js
 // @description  Auto-send message from URL parameter in Open WebUI

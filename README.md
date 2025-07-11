@@ -25,13 +25,15 @@ When you open the URL with this script installed, it will:
 1. **Install Tampermonkey** in your browser (Chrome, Firefox, Edge, etc.) if you haven’t already:
    [https://www.tampermonkey.net/](https://www.tampermonkey.net/)
 
-2. **Install this userscript** by visiting the raw GitHub URL:
+2. **Install this userscript** by visiting the GitHub URL and downloading the file:
 
 ```
-https://raw.githubusercontent.com/Panonim/openwebui-userscript/refs/heads/main/script.js
+https://github.com/Panonim/openwebui-userscript/blob/main/script.js
 ```
 
-3. Confirm the Tampermonkey installation prompt.
+3. Go to TamperMonkey widget and choose `Utilities` from the menu.
+4. Find `Import from file` and import `script.js`.
+5. That's it! Your script should be ready to go.
 
 ---
 

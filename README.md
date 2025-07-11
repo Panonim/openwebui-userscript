@@ -38,8 +38,10 @@ https://raw.githubusercontent.com/Panonim/openwebui-userscript/refs/heads/main/s
 ## Development & Updating
 
 * This script uses Tampermonkey’s automatic update mechanism.
-* To update the script, simply create a pr to the GitHub repository and update the version number in the script.
+* To update the script, simply click `Check for userscript updates` and TM will do the rest for you. 
 * Tampermonkey checks for updates periodically or when you manually request an update.
+
+* If you want to help with script development, fork the repo and create a PR wich changes. We will manually update the version number for you.
 
 ---
 

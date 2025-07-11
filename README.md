@@ -27,9 +27,9 @@ When you open the URL with this script installed, it will:
 
 2. **Install this userscript** by visiting the raw GitHub URL:
 
-   ```
-
-   ```
+```
+https://raw.githubusercontent.com/Panonim/openwebui-userscript/refs/heads/main/script.js
+```
 
 3. Confirm the Tampermonkey installation prompt.
 

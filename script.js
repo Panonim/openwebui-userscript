@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         Open WebUI Message Fetcher from URL
-// @namespace    https://github.com/Panonim/openwebui-userscript
+// @namespace    https://bluee.dev
 // @version      1.0.0
 // @updateURL    https://raw.githubusercontent.com/Panonim/openwebui-userscript/main/script.js
 // @downloadURL  https://raw.githubusercontent.com/Panonim/openwebui-userscript/main/script.js
+// @supportURL   https://github.com/Panonim/openwebui-userscript/discussions
+// @source       https://github.com/Panonim/openwebui-userscript
 // @description  Automatically injects and sends a message in Open WebUI if a `?message=` parameter is present in the URL. Useful for automation, testing, or scripted interactions.
 // @author       Artur Flis C 2025
 // @match        *://localhost:3000/*

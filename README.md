@@ -1,5 +1,10 @@
 # Open WebUI Message From URL Sender — Tampermonkey Userscript
 
+<p>
+   <img alt="Greasy Fork Downloads" src="https://img.shields.io/greasyfork/dt/542330">
+   <img alt="Greasy Fork Rating" src="https://img.shields.io/greasyfork/rating-count/542330">
+</p>
+
 Automatically inject and send a message in your Open WebUI instance via URL parameters.
 
 ---
